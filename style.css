@@ -1,0 +1,42 @@
+body {
+    background-color: #f8e6d0 ;
+    color: #200816 ;
+}
+
+header {
+    border-bottom: 2px solid #200816 ;
+}
+
+.logo {
+    width: 40px;
+    height: 32px;
+}
+
+.nav-link,
+.nav-link:visited,
+.nav-link:hover,
+.nav-link:focus,
+.nav-link:active {
+    color: #200816;
+}
+
+.nav-link {
+    color: #200816 ;
+    border-bottom: 2px solid transparent ;
+    border-radius: 0 ;
+}
+
+.nav-link:hover {
+    color: #5a2a3d ;
+    border-bottom-color: #5a2a3d ;
+}
+
+.nav-link.active {
+    background-color: transparent; ;
+    color: #200816 ;
+    border-bottom-color: #200816 ;
+}
+
+.link-body-emphasis {
+    color: #200816 ;
+}
