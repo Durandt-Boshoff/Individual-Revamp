@@ -58,11 +58,32 @@ header .nav-link:hover {
 
 /*About Styling*/
 /*Hero Styling*/
-
 .hero {
     background-color: #c08e70;
 }
 
+/*Contact Styling*/
+.form-box {
+    background-color: #683a34;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+}
+
+/*Menu Styling*/
+.card {
+    border: 2px solid #200816;
+    border-radius: 15px;
+    background-color: #fffaf5;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.ratio iframe {
+    border: none;
+}
 
 /*Footer Styling*/
 .footer {
