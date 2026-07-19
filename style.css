@@ -7,12 +7,14 @@ body {
 header {
     border-bottom: 2px solid #200816 ;
 }
-/*Home styling*/
-/*Header styling*/
+
 .logo {
     width: 40px;
     height: 32px;
 }
+
+/*Home styling*/
+/*Header styling*/
 
 .nav-link,
 .nav-link:visited,
@@ -54,7 +56,15 @@ header .nav-link:hover {
     border-color: #5a2a3d;
 }
 
-/*Footer*/
+/*About Styling*/
+/*Hero Styling*/
+
+.hero {
+    background-color: #c08e70;
+}
+
+
+/*Footer Styling*/
 .footer {
     background-image: 
         linear-gradient(rgba(32,8,22,.6), rgba(32,8,22,.6)),
